@@ -3,6 +3,7 @@
 from itertools import permutations
 from sys import maxsize
 
+# ini class
 class Kota:
     def __init__(self, kota):
         self.kota = kota
