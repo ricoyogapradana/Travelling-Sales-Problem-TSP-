@@ -1,4 +1,4 @@
-#Edoward Cornelius Tarigan/200610973
+#This code was created for operational research for optimization code
 
 from itertools import permutations
 from sys import maxsize
